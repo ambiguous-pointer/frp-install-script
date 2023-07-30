@@ -74,7 +74,6 @@ echo "参数 -H 的值为: $server_addr"
 echo "参数 -P 的值为: $server_port"
 echo "参数 --token 的值为: ${token:-无}"
 echo "参数 --session-id 的值为: $session_id"
-exit 0
 
 echo "\e[32m判断安装目录是否存在\e[0m"
 # 判断目录是否存在
